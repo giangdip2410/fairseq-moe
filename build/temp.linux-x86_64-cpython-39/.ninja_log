@@ -1,0 +1,15 @@
+# ninja log v5
+1	242	1697728004914903000	/home/gtruong/Project/ICML/Fair_MOE/fairseq-moe/build/temp.linux-x86_64-cpython-39/fairseq/clib/libbleu/libbleu.o	12100ff0671a6f54
+1	312	1697728004984145000	/home/gtruong/Project/ICML/Fair_MOE/fairseq-moe/build/temp.linux-x86_64-cpython-39/fairseq/clib/libbleu/module.o	7a6127f399fba7ff
+0	2317	1697728007583590000	/home/gtruong/Project/ICML/Fair_MOE/fairseq-moe/build/temp.linux-x86_64-cpython-39/fairseq/data/data_utils_fast.o	a43ba5a2d5c9ec43
+1	2252	1697728010061647000	/home/gtruong/Project/ICML/Fair_MOE/fairseq-moe/build/temp.linux-x86_64-cpython-39/fairseq/data/token_block_utils_fast.o	20086ab0e60162b
+6	4309	1697728244166559000	/home/gtruong/Project/ICML/Fair_MOE/fairseq-moe/build/temp.linux-x86_64-cpython-39/fairseq/data/data_utils_fast.o	a43ba5a2d5c9ec43
+1	3820	1697728248211141000	/home/gtruong/Project/ICML/Fair_MOE/fairseq-moe/build/temp.linux-x86_64-cpython-39/fairseq/data/token_block_utils_fast.o	20086ab0e60162b
+1	45275	1697728293684028000	/home/gtruong/Project/ICML/Fair_MOE/fairseq-moe/build/temp.linux-x86_64-cpython-39/fairseq/clib/libbase/balanced_assignment.o	a5bda44523b7c9b8
+17	19159	1697728313308767000	/home/gtruong/Project/ICML/Fair_MOE/fairseq-moe/build/temp.linux-x86_64-cpython-39/fairseq/clib/libnat/edit_dist.o	1598fe690576e01f
+190	2555	1697918163547499000	/home/gtruong/Project/ICML/Fair_MOE/fairseq-moe/build/temp.linux-x86_64-cpython-39/fairseq/data/data_utils_fast.o	a43ba5a2d5c9ec43
+9	2254	1697918166000150000	/home/gtruong/Project/ICML/Fair_MOE/fairseq-moe/build/temp.linux-x86_64-cpython-39/fairseq/data/token_block_utils_fast.o	20086ab0e60162b
+7	3654	1697918274666759000	/home/gtruong/Project/ICML/Fair_MOE/fairseq-moe/build/temp.linux-x86_64-cpython-39/fairseq/data/data_utils_fast.o	a43ba5a2d5c9ec43
+4	3758	1697918278579635000	/home/gtruong/Project/ICML/Fair_MOE/fairseq-moe/build/temp.linux-x86_64-cpython-39/fairseq/data/token_block_utils_fast.o	20086ab0e60162b
+38809	78406	1697918357124478000	/home/gtruong/Project/ICML/Fair_MOE/fairseq-moe/build/temp.linux-x86_64-cpython-39/fairseq/clib/libbase/balanced_assignment.o	a5bda44523b7c9b8
+258	18814	1697918377696439000	/home/gtruong/Project/ICML/Fair_MOE/fairseq-moe/build/temp.linux-x86_64-cpython-39/fairseq/clib/libnat/edit_dist.o	1598fe690576e01f

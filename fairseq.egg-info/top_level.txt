@@ -1,0 +1,4 @@
+fairseq
+fairseq_cli
+scomoe
+smoe
