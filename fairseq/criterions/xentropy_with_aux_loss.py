@@ -99,9 +99,15 @@ class XEntropyAuxCriterion(FairseqCriterion):
             metrics.log_derived(
                 "ppl", lambda meters: utils.get_perplexity(meters["nll_loss"].avg)
             )
+            metrics.log_derived(
+                "bpc", lambda meters: utils.get_bpc(meters["nll_loss"].avg)
+            )
         else:
             metrics.log_derived(
                 "ppl", lambda meters: utils.get_perplexity(meters["loss"].avg)
+            )
+            metrics.log_derived(
+                "bpc", lambda meters: utils.get_bpc(meters["loss"].avg)
             )
 
     @staticmethod
